@@ -1,0 +1,16 @@
+# Supabase
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+
+# Website
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
+
+# VNPay
+VNPAY_TMN_CODE=
+VNPAY_HASH_SECRET=
+VNPAY_URL=https://sandbox.vnpayment.vn/paymentv2/vpcpay.html
+VNPAY_RETURN_URL=
+
+# Email
+RESEND_API_KEY=
+EMAIL_FROM=BaBond <no-reply@yourdomain.com>
